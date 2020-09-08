@@ -1,0 +1,28 @@
+
+    [{
+        "id": 1,
+        "con": "Portugal",
+        "states": [
+            { "name": "Alentejo", "id": "1" },
+            { "type": "Algarve", "id": "2" },
+            { "type": "Beira", "id": "3" },
+            { "type": "Estremadura", "id": "4" }
+        ]
+    }, {
+        "id": 2, "con": "United States Of America",
+        "states": [
+            { "name": "California", "id": "1" },
+            { "type": "Colorado", "id": "2" },
+            { "type": "New Jersey", "id": "3" },
+            { "type": "New York", "id": "4" }
+        ]
+    }, {
+        "id": 3, "con": "United Kingdom",
+        "states": [
+            { "name": "Birmingham", "id": "1" },
+            { "type": "Newcastle", "id": "2" },
+            { "type": "Manchester", "id": "3" },
+            { "type": "Durham", "id": "4" }
+        ]
+    }
+    ]
